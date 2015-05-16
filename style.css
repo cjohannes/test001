@@ -14,3 +14,15 @@ h1{
 	margin:0;
 	font-size: 3em;
 }
+
+p.black{
+	color: #000;
+}
+
+p.green{
+	color: #0a0;
+}
+
+p.red{
+	color: #a00;
+}
