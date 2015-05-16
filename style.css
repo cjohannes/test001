@@ -2,7 +2,8 @@ body{
 	background-color: #ffffdd;
 }
 #header{
-	height: 120px;
+	height: 100px;
+	padding: 1em;
 	background-color: #557799;
 }
 
