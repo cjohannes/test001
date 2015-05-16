@@ -1,6 +1,13 @@
 body{
 	background-color: #ffffdd;
 }
+
+#page{
+	width: 800px;
+	border: 1px solid #6a6;
+	background-color: #fff;
+}
+
 h1{
 	font-size: 3em;
 }
