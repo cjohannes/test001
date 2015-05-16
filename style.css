@@ -4,6 +4,7 @@ body{
 
 #page{
 	margin: 2em auto;
+	padding: 1em;
 	width: 800px;
 	border: 1px solid #6a6;
 	background-color: #fff;
