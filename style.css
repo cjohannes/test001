@@ -1,6 +1,10 @@
 body{
 	background-color: #ffffdd;
 }
+#header{
+	height: 120px;
+	background-color: #557799;
+}
 
 #page{
 	margin: 2em auto;
