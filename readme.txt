@@ -2,8 +2,5 @@ eine kurze Anleitung...
 
 hallo...
 hallo2...
-<<<<<<< HEAD
 hallo3
-=======
-hallo4
->>>>>>> testZweig
+
