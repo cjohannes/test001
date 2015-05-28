@@ -1,7 +1,7 @@
 body{
 	background-color: #ffffdd;
 	margin: 0;
-	font-size: 1.8em;
+	font-size: 1.2em;
 }
 #header{
 	height: 100px;
@@ -27,9 +27,9 @@ p.black{
 }
 
 p.green{
-	color: #0a0;
+	color: #0f0;
 }
 
 p.red{
-	color: #a00;
+	color: #f00;
 }
